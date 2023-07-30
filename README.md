@@ -12,6 +12,10 @@ Foi utilizado o conceito de mobile first (aplicado para garantir que a interface
 
 - [Layout da aplicação](https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?type=design&node-id=0-1&mode=design&t=6Wo5FsnsUgFYizBa-0)
 
+## Github Pages
+
+- [Deploy da aplicação](https://guilhermedsc.github.io/Toms_Jazz_School_landing_page/)
+
 ## Imagens do projeto
 
 ### Header desktop e mobile
